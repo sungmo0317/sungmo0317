@@ -1,4 +1,4 @@
-# Zergsung's Archive <a href="https://zergsung.notion.site/Zergsung-b142c35828bd463088e6f7a33eba3db8" target='_blank'><img src="https://img.shields.io/badge/BLOG-FFFFFF?style=social&logo=Notion&logoColor=000000"/></a>
+# Zergsung's Archive <a href="https://zergsung.notion.site/Zergsung-b142c35828bd463088e6f7a33eba3db8" target='_blank'><img src="https://img.shields.io/badge/BLOG-FFFFFF?style=flat-square&logo=Notion&logoColor=000000"/></a>
 
 <!--
 **sungmo0317/sungmo0317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
