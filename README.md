@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ![d0razi's GitHub stats](https://github-readme-stats.vercel.app/api?username=d0razi&show_icons=true&theme=dark)
 ---
-Field
+Field |
 Reversing
