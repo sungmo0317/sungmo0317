@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ## 🗂️ Tech Stack
 
-<div align="center" style="display: flex;">
+| <div align="center" style="display: flex;">
     <div style="display: inline; width: 50%; height: fit-content; margin: 5px; padding: 5px; border: 1px solid red">
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"  alt="Windows">
         <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">    <br>
@@ -58,10 +58,10 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
         <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
     </div>
-    <div>
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h0pler)](https://github.com/h0pler/github-readme-stats)
-    </div>
-</div>
+</div> | <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0pler" alt="Top Langs"> </a> |
+| ------------- | ------------- |
+
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4D55FF,49:E6B0FF,100:FFB8FF&eight=100&section=footer&desc=😁&descAlign=2&descAlignY=86&animation=blinking"/>
