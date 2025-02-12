@@ -1,4 +1,4 @@
-# d0razi's Archive <a href="https://d0razi.github.io" target='_blank'><img src="https://img.shields.io/badge/Blog-FFFFFF?style=flat-square&logo=velog&logoColor=Green"/></a>
+# d0razi's Archive <a href="https://d0razi.site" target='_blank'><img src="https://img.shields.io/badge/Blog-FFFFFF?style=flat-square&logo=velog&logoColor=Green"/></a>
 
 <!--
 
