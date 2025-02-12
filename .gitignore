@@ -1,7 +1,7 @@
 ## Jekyll stuff
 site/_site/
 site/_site/
-site/.sass-cache/
+.sass-cache/
 site/.jekyll-metadata
 site/.jekyll
 site/Gemfile
